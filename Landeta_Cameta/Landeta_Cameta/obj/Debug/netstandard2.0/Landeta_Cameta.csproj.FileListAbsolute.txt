@@ -1,0 +1,12 @@
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\Landeta_Cameta.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\Landeta_Cameta.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\Landeta_Cameta.AssemblyInfo.cs
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\bin\Debug\netstandard2.0\Landeta_Cameta.deps.json
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\bin\Debug\netstandard2.0\Landeta_Cameta.dll
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\Landeta_Cameta.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\bin\Debug\netstandard2.0\Landeta_Cameta.pdb
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\Landeta_Cameta.dll
+C:\Users\santi\source\repos\Landeta_Cameta\Landeta_Cameta\Landeta_Cameta\obj\Debug\netstandard2.0\Landeta_Cameta.pdb
